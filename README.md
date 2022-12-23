@@ -52,7 +52,7 @@ model.add(BatchNormalization())<br>
 model.add(Dropout(0.3))<br>
 model.add(Dense(2, activation='softmax'))<br>
 </div>
-- Compile ettiğimiz modeli fit etme aşamasında epoch değerini hızlı çalışması açısından 5 veriyorum.
+- Compile ettiğimiz modeli fit etme aşamasında epoch değerini hızlı çalışması açısından 5 veriyorum.<br>
 - Modeli evaluate ettiğimizde test başarısının epoch değerine ve  katmanlara göre nispeten iyi olduğunu görüyoruz.
 
 ## Resnet152V2 model ile tranfer learning
