@@ -1,4 +1,4 @@
-# CNN ve Resnet152V2 modelleriyle kedi ve köpek sınıflandırması
+# Cats and dogs classification with CNN and Resnet152V2 models
 
  ## Klasörlere ayırma  
 - Hiyerarşik class yapısını rastgele bir şekilde oluşturmak için *'shutil'* kullanıyoruz. Bu işlem sonunda elimizdeki klasör yapısı:
