@@ -1,1 +1,1 @@
-# dogs-vs-cats_with-deep-learning
+# CNN ve Resnet152V2 modelleriyle kedi ve köpek sınıflandırrması
